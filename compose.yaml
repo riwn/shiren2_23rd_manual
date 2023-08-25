@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - USER=user
+    ports:
+      - 9090:9090
