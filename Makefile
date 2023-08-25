@@ -1,7 +1,7 @@
 build:
-	docker compose run --rm mdbook build
-build:
-	docker compose run --rm mdbook watch
+	docker compose run --rm app mdbook build
+watch:
+	docker compose run --rm app mdbook watch
 serve:
-	docker compose run --rm mdbook serve -p 9090
+	docker compose run --rm app mdbook serve -p 9090
 
