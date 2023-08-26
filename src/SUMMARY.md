@@ -1,5 +1,7 @@
 # Summary
 
+[はじめに](./first.md)
+
 - [走者向けご案内](./runner/runner_1.md)
   - [Discord](./runner/runner_2.md)
   - [参加者の準備](./runner/runner_3.md)
