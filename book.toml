@@ -1,5 +1,9 @@
 [book]
-authors = []
+title = "風来のシレン2 23周年記念TAリレー大会"
+authors = ["あーる","よっつん","ツジジ","ハタ"]
 language = "ja"
 multilingual = false
 src = "src"
+
+[output.html.print]
+enable = false
