@@ -13,3 +13,9 @@
 - [解説者向けご案内](./commentator/commentator_1.md)
   - [解説について](./commentator/commentator_2.md)
   - [注意事項](./commentator/commentator_3.md)
+
+---
+
+- [運営補佐向けご案内](./assistant/assistant_1.md)
+  - [タイムキーパー](./assistant/assistant_2.md)
+  - [各種目の詳細](./assistant/assistant_3.md)
